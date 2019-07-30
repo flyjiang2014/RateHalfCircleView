@@ -1,0 +1,24 @@
+ 一 ：git下载
+
+ 1 右击空白处，选择Git GUI here,弹出Git GUI.
+
+ 2 选择clone Exiting Repository,弹出选择source 界面。
+
+ 3 Source Location填入复制的项目 git url地址，Target Directory直接选择路径，需新定义文件夹名字。
+
+ 4 点击clone，等待下载成功
+
+
+二 ：上传
+
+ 1 git上新建一个空的仓库
+
+ 2 在要上传的项目文件夹列表空白处，右击，选择Git GUI here,弹出Git GUI.
+
+ 3 点击create new Repository,生成本地仓库。
+
+ 4 点击commit,提交本地仓库，
+
+ 5 点击push,弹出Push Branches,Arbitary loacation,填入git仓库地址url,
+
+ 6 等待提交成功。
