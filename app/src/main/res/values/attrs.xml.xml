@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <attr name="RateHalfCircleColor" format="color" />
+        <attr name="RateHalfCircleThickness" format="dimension" />
+        <attr name="RateHalfCircleWidth" format="dimension" />
+        <attr name="RateHalfCircleHeight" format="dimension" />
+
+        <declare-styleable name="RateHalfCircleView">
+            <attr name="RateHalfCircleColor" />
+            <attr name="RateHalfCircleThickness" />
+            <attr name="RateHalfCircleWidth" />
+            <attr name="RateHalfCircleHeight" />
+        </declare-styleable>
+
+    </resources>
+
